@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fa48585-c3c3-494c-87f9-9e4cd394cf65" name="Changes" comment="">
+      <change afterPath="D:/TCS_NQT_CODING/.gitignore" afterDir="false" />
+      <change afterPath="D:/TCS_NQT_CODING/.idea/.gitignore" afterDir="false" />
+      <change afterPath="D:/TCS_NQT_CODING/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/TCS_NQT_CODING/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/TCS_NQT_CODING/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/TCS_NQT_CODING/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/TCS_NQT_CODING/TCS_NQT_CODING.iml" afterDir="false" />
+      <change afterPath="D:/TCS_NQT_CODING/src/Arrays/InitialisationOfArrays.java" afterDir="false" />
+      <change afterPath="D:/TCS_NQT_CODING/src/Arrays/Marks.java" afterDir="false" />
+      <change afterPath="D:/TCS_NQT_CODING/src/Arrays/TakingInput.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/TCS_NQT_CODING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="39Sn1HVWMigNhxlMEvlZrj6fOdQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Marks.executor": "Run",
+    "Application.TakingInput.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Marks">
+    <configuration name="Marks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Marks" />
+      <module name="TCS_NQT_CODING" />
+      <option name="WORKING_DIRECTORY" value="D:/TCS_NQT_CODING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TakingInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.TakingInput" />
+      <module name="TCS_NQT_CODING" />
+      <option name="WORKING_DIRECTORY" value="D:/TCS_NQT_CODING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Marks" />
+      <item itemvalue="Application.TakingInput" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Marks" />
+        <item itemvalue="Application.TakingInput" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fa48585-c3c3-494c-87f9-9e4cd394cf65" name="Changes" comment="" />
+      <created>1770698125663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770698125663</updated>
+    </task>
+    <servers />
+  </component>
+</project>
