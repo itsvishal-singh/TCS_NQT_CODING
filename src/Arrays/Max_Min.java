@@ -25,8 +25,19 @@ public class Max_Min {
         int smax = Integer.MIN_VALUE;
         for(int z : arr){
             if(z>smax && z!=max){
-                smax=z;}
+                smax=z;
+            }
         }
         System.out.println("Second Largest Element is : " + smax);
+
+        //Count the number of elements in the given array greater than a given number x
+        int count = 0;
+        int x = 6;
+        for(int z:arr){
+            if(z>x){
+                count++;
+            }
+        }
+        System.out.println("The number of elements greater then " + x + " is : " + count);
     }
 }
